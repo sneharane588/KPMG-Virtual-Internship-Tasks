@@ -14,3 +14,5 @@ You decide to start the preliminary data exploration and identify ways to improv
 
 Below is a list of the Data Quality dimensions our team may use to evaluate a dataset.
 Some of these terms are common to the whole industry, so you may find more information and clarity on these terms by searching online.
+
+<img width="551" alt="dataquality" src="https://user-images.githubusercontent.com/19407823/94490285-a4ebb400-0203-11eb-9cc7-dd4c2e80480c.png">
