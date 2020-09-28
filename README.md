@@ -1,5 +1,7 @@
 # KPMG-Virtual-Internship
 
+![KPMG-inside-sherpa-thumb](https://user-images.githubusercontent.com/19407823/94491070-1d9f4000-0205-11eb-9176-02080f9ac648.jpg)
+
 ## Task 1: Data Quality Assessment
 
 #### Assessment of data quality and completeness in preparation for analysis
@@ -13,9 +15,9 @@ You decide to start the preliminary data exploration and identify ways to improv
 
 
 ## Task 2 : Data Insights
-#### argeting high value customers based on customer demographics and attributes.
+#### Targeting high value customers based on customer demographics and attributes.
 
-Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation.
+Client has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation.
 
 The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
 
